@@ -1,5 +1,3 @@
-import sys
-
 edades = []
 while True:
     edad = int(input("Ingrese una edad: "))
